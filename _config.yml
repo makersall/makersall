@@ -1,0 +1,12 @@
+title: Makers All 
+author: Anders Schneiderman
+email: your-email@domain.com
+description:  Description of this site
+
+# Menu data for sitewide navigation
+navigation_links:
+  - name: About
+    link: 'about/'
+  - name: Blog
+    link: 'blog/'
+
