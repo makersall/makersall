@@ -7,3 +7,5 @@ description:  Description of this site
 navigation_links:
   - name: About
     link: 'about/'
+  - name: Blog		
+    link: 'blog/'
