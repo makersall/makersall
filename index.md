@@ -8,7 +8,7 @@ layout: home
 Communities Shaping Their Destinies
 By Transforming Emerging Tech
 
-<img src="{{'/assets/images/Makers-All-Butterfly.jpg'  | relative_url }}  style="margin-left:15px;float: right;”>
+<img src="{{'/assets/images/Makers-All-Butterfly.jpg'  | relative_url }}"  style="margin-left:15px;float: right;”>
 
 ## Report: Solution to Robot/AI Jobs Threat Lies in Our Past
 
