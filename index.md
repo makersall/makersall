@@ -5,8 +5,9 @@ layout: home
 
 <h1>Makers All</h1>
 
-Communities Shaping Their Destinies
-By Transforming Emerging Tech
+<h2>Communities Shaping Their Destinies<br/>
+By Transforming Emerging Tech</h2>
+
 
 <img src="{{'/assets/images/Makers-All-Butterfly.jpg'  | relative_url }}"  style="margin-left:15px;float: right;”>
 
