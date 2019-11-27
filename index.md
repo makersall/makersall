@@ -26,4 +26,4 @@ To learn more about the report:
 - [Full Report](https://makersall.org/pages/Makers-All-Report.pdf)) (PDF)
 
 
-<img src="{{'/assets/images/Makers-All-Butterfly.jpg'  | relative_url }}">
+<img src="{{'/assets/images/Makers-All-Butterfly.jpg'  | relative_url }}" style="margin-left:15px;float: right;”>
