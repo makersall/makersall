@@ -2,9 +2,11 @@
 title: Communities Shaping Their Destinies By Transforming Emerging Tech
 layout: home
 ---
-# Makers All
-## Communities Shaping Their Destinies
-## By Transforming Emerging Tech
+
+<h1>Makers All</h1>
+
+Communities Shaping Their Destinies
+By Transforming Emerging Tech
 
 <img src="{{'/assets/images/Makers-All-Butterfly.jpg'  | relative_url }}  style="margin-left:15px;float: right;”>
 
