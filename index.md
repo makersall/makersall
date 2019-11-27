@@ -23,3 +23,6 @@ To learn more about the report:
 - [Toolkit](https://toolkit.makersall.org): web-based version of the report
 - [Executive Summary ](https://makersall.org/pages/Makers-All-Report-Executive-Summary.pdf)(PDF)
 - [Full Report](https://makersall.org/pages/Makers-All-Report.pdf)) (PDF)
+
+
+<img src="{{'/assets/images/Makers-All-Butterfly.jpg'  | relative_url }}">
