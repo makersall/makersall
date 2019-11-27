@@ -2,7 +2,11 @@
 title: Communities Shaping Their Destinies By Transforming Emerging Tech
 layout: home
 ---
-<img src="{{'/assets/images/makersall.jpg'  | relative_url }} ">
+# Makers All
+## Communities Shaping Their Destinies
+## By Transforming Emerging Tech
+
+<img src="{{'/assets/images/Makers-All-Butterfly.jpg'  | relative_url }}  style="margin-left:15px;float: right;”>
 
 ## Report: Solution to Robot/AI Jobs Threat Lies in Our Past
 
