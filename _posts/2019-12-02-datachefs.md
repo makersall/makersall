@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Welcome to Data Chefs!
+title: 'New Project: Data Chefs'
 ---
 
 Over the past decade, the tools that let staff who aren’t coders transform and analyze data have gotten more and more powerful. But if an organization just rolls out these tools to lots of power users without having a broader strategy about how the pieces will fit together, you're likely to create a hot mess.
 
-Data Chefs is a framework for helping you tap the power of these tools in a way that's scalable and sustainable by growing ecosystem of power users.
+[Data Chefs](https://datachefs.org/) is a framework for helping you tap the power of these tools in a way that's scalable and sustainable by growing ecosystem of power users.
 
 Data Chefs is a mashup of my decades of experience training, supporting, and nurturing power users plus the research I did for Makers All’s [flagship report](https://toolkit.makersall.org). In the report, I [argue](https://toolkit.makersall.org/pages/50-support/10-community-support.html#explore-connecting-community-and-workplace-support) there’s a way for corporations and large nonprofits to design their tech training/retraining strategy  so it also benefits marginalized communities:
 
@@ -21,6 +21,5 @@ What I realized was that if I focused on trying to help corporations and other l
 
 I also realized that if you took a lot of the ideas I'd developed in the report and scaled them down, they'd make a great place to start growing thriving corporate ecosystems for power users. Add in my frustrations with how Agile software development gets talked about and rolled out in so many organizations, and voilà:  Data Chefs!
 
-On this website, I've pulled together an alpha version of Data Chfes (v0.2).  In the next few months, I'll use this blog to start fleshing it out.  For the moment I'm not accepting comments on this blog -- I need to figure out how to stop comment spam when using a GitHub Jekyll blog.  But for now, if you have comments, criticisms, etc please reach me on twitter; I'm at @raschneiderman.
 
 One final note.  Although this approach to Data Chefs is pretty different from the original version we developed at ASHA, I wouldn't have come up with it if it weren't for that first version.  So thanks, Ian and Morgana -- it was such a pleasure working with and learning from you!

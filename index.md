@@ -14,6 +14,6 @@ How can we overcome the robot/AI jobs threat and revitalize communities from Har
 To learn more about the report:
 
 - [Toolkit](https://toolkit.makersall.org): web-based version of the report
-- [Executive Summary ](https://makersall.org/pages/Makers-All-Report-Executive-Summary.pdf)(PDF)
-- [Full Report](https://makersall.org/pages/Makers-All-Report.pdf)) (PDF)
+- [Executive Summary ](assets/documents/Makers-All-Report-Executive-Summary.pdf)(PDF)
+- [Full Report](assets/documents/Makers-All-Report.pdf) (PDF)
   
