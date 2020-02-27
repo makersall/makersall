@@ -38,7 +38,7 @@ permalink: /blog/
       {%- endfor -%}
     </ul>
 
-<p> For archived blog posts, please visit the  <a href="https://makersall.wordpress.com/news/">old Makers All site</a></p>
+<p> For archived blog posts, please visit the  <a href="https://makersall.wordpress.com/">old Makers All site</a></p>
 
     <p class="feed-subscribe">
       <a href="{{ 'feed.xml' | relative_url }}">
