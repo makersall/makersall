@@ -1,0 +1,12 @@
+SET UP
+
+- Install Ruby
+
+- Run Bundler
+Go to this GitHub repo directory on my computer
+bundle install
+
+- Make sure that the .gitignore file contains .jekyll-cache
+
+- Make sure the Gemfile and _config file are set up for jekyll-feed.  Fore moe details, see:
+https://github.com/jekyll/jekyll-feed
