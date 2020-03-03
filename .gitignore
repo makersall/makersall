@@ -1,6 +1,7 @@
 .bundle
 .sass-cache
 Gemfile.lock
+.jekyll-cache
 _site
 *.gem
 .editorconfig

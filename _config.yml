@@ -2,6 +2,11 @@ title: Makers All
 author: Anders Schneiderman
 email: your-email@domain.com
 description:  Description of this site
+url: https://makersall.org/
+
+plugins:
+  - jekyll-feed
+# - jekyll-seo-tag
 
 # Menu data for sitewide navigation
 navigation_links:
