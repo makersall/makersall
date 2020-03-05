@@ -1,9 +1,10 @@
 ---
-title: Communities Shaping Their Destinies By Transforming Emerging Tech
-layout: home
+layout: content
+title: Resources
+permalink: /resources/
 ---
 
-## Report: Solution to Robot/AI Jobs Threat Lies in Our Past
+### Report: Solution to Robot/AI Jobs Threat Lies in Our Past
 
 How can we overcome the robot/AI jobs threat and revitalize communities from Harlem to Harlan County? According to Makers All’s report, _Makers All: How to Help Communities Transform Emerging Tech So They Can Shape Their Destinies_, by helping communities to transform robotics/AI and other emerging tech so as many people in every community can become developers or designers. To do that, we should take a page from the agricultural program called Extension Services and:
 
@@ -14,6 +15,6 @@ How can we overcome the robot/AI jobs threat and revitalize communities from Har
 To learn more about the report:
 
 - [Toolkit](https://toolkit.makersall.org): web-based version of the report
-- [Executive Summary ](assets/documents/Makers-All-Report-Executive-Summary.pdf)(PDF)
-- [Full Report](assets/documents/Makers-All-Report.pdf) (PDF)
+- [Executive Summary ](../assets/documents/Makers-All-Report-Executive-Summary.pdf)(PDF)
+- [Full Report](../assets/documents/Makers-All-Report.pdf) (PDF)
   

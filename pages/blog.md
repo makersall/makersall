@@ -21,24 +21,19 @@ permalink: /blog/
 
   <div class="post-content">
 
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
+    {%- for post in site.posts -%}
+      <h3> <a class="post-link" href="{{ post.url | relative_url }}"> {{ post.title | escape }} </a> </h3>
+      <div class="content"> {{ post.content }} </div>
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <span class="post-meta">{{ post.date | date: date_format }} - {{ post.author }}</span>
+    {%- endfor -%}
 
-<p> For archived blog posts, please visit the  <a href="https://makersall.wordpress.com/">old Makers All site</a></p>
+    <p> </p>
+    <hr/>
+    <p> </p>
+
+
+    <p> For archived blog posts, please visit the  <a href="https://makersall.wordpress.com/">old Makers All site</a></p>
 
     <p class="feed-subscribe">
       <a href="{{ 'feed.xml' | relative_url }}">

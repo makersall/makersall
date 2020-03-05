@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'New Project: Data Chefs'
+author: Anders Schneiderman
 ---
 
 Over the past decade, the tools that let staff who aren’t coders transform and analyze data have gotten more and more powerful. But if an organization just rolls out these tools to lots of power users without having a broader strategy about how the pieces will fit together, you're likely to create a hot mess.

@@ -5,12 +5,18 @@ description:  Description of this site
 url: https://makersall.org/
 
 plugins:
-  - jekyll-feed
+  - jekyll-feed           # RSS feed for blog
+  - jekyll-paginate       # Paginate the list of blog posts
 # - jekyll-seo-tag
+
+# Blogging setup
+paginate: 5               # Number of posts to display at any one time
 
 # Menu data for sitewide navigation
 navigation_links:
   - name: About
     link: 'about/'
-  - name: Blog		
-    link: 'blog/'
+  - name: Resources
+    link: 'resources/'
+  # - name: Blog		
+  #   link: 'blog/'
