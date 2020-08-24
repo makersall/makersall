@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Getting In Touch With My Inner Caterpillar’
+title:  Getting In Touch With My Inner Caterpillar
 author: Anders Schneiderman
 ---
 
