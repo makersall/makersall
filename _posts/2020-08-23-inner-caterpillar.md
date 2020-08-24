@@ -4,9 +4,11 @@ title:  Getting In Touch With My Inner Caterpillar
 author: Anders Schneiderman
 ---
 
-I haven’t posted for quite a while.  That’s because I’ve been struggling with where to go next with Makers All.  That’s mostly because of how rapidly the world has changed.  From Black Lives Matter to what the Coronavirus epidemic has revealed about the foundations of our economy to how the political discussions in tech — especially in AI — have dramatically changed, we’re living in a radically different context than  where we were a year ago, when the Makers All report first came out.
+For the past few months, I’ve been struggling with where to go next with Makers All.  That’s mostly because of how rapidly the world has changed.  
 
-As a result, I don’t think the name “Makers All” fits with where I think our communities and emerging tech need to go.  And I’m not sure what’s the right name — or for that matter, what the right scope of this project is.
+From Black Lives Matter to the Coronavirus epidemic to the dramatic transformation of political discussions in tech — especially in AI — we’re living in a radically different context than  where we were a year ago, when the Makers All report first came out.
+
+As a result, I don’t think the name “Makers All” fits with where I think our communities and emerging tech need to go.  And I’m not sure what the right name is — or for that matter, what the right scope of this project is.
 
 For example:
 
