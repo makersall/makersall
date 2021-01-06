@@ -16,7 +16,7 @@ paginate: 5               # Number of posts to display at any one time
 navigation_links:
   - name: About
     link: 'about/'
+  - name: Blog		
+    link: 'blog/'
   - name: Resources
     link: 'resources/'
-  # - name: Blog		
-  #   link: 'blog/'
