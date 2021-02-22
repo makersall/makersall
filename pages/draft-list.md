@@ -10,8 +10,10 @@ permalink: /drafts/
 <div class="post-content">
   {%- for draft in site.pages -%} 
     {% if draft.path contains 'drafts/' %}
+    Test here we go
       <p><a href="{{ draft.url | relative_url }}"> {{ draft.title | escape }} </a><br/>({{ draft.path}})</p>
     {% endif %}
   {%- endfor -%}
  </div> 
 
+And that was all the drafts!
