@@ -67,7 +67,7 @@ We need to experiment in a way that's headed somewhere, that is headed toward sc
 Some Strategies for Experimentation
 - Learn from the good parts of start up culture -- e.g., [MVPs](https://www.agilealliance.org/glossary/mvp/)
 - Help geographic clusters of small community tech groups build grassroots power together and level up
-- Support and learn from current struggles in other/related approaches to emerging tech -- e.g., the [Algorithmic Justice League](https://www.ajl.org/)'s strategy for building [equitable and accountable AI](https://www.ajl.org/about), [Data for Black Lives](https://d4bl.org/)'s [#NoMoreDataWeapons](https://blog.d4bl.org/introducing-nomoredataweapons/) campaign
+- Support and learn from current struggles in other/related approaches to emerging tech -- e.g., the [Algorithmic Justice League](https://www.ajl.org/)'s strategy for building [equitable and accountable AI](https://www.ajl.org/about), [Data for Black Lives](https://d4bl.org/)'s [#NoMoreDataWeapons](https://blog.d4bl.org/introducing-nomoredataweapons/) campaign, the [Design Justice Network](https://designjustice.org/)
 - Look for ways to add more playful approaches to tech to make it less intimidating, to encourage learning & creative exploration
 
 Traps to Look out for
