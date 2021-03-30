@@ -26,6 +26,7 @@ permalink: /blog/
       <div class="content"> {{ post.content }} </div>
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <span class="post-meta">{{ post.date | date: date_format }} - {{ post.author }}</span>
+      <p> <br/> </p>
     {%- endfor -%}
 
     <p> </p>
